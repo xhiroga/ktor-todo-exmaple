@@ -1,4 +1,4 @@
-package com.todo.exmaple.factory
+package com.todo.example.factory
 
 import com.typesafe.config.ConfigFactory
 import com.zaxxer.hikari.HikariConfig
